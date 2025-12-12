@@ -70,4 +70,3 @@ The app uses React Navigation Stack Navigator for screen transitions. All screen
 ## License
 
 This project is for demonstration purposes.
-
